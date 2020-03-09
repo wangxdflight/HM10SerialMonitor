@@ -1,6 +1,38 @@
 -- Merging decision tree log ---
 manifest
 ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:17:1-49:12
+INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:17:1-49:12
+INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:17:1-49:12
+INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:17:1-49:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\1333a20359de9aa49525f9fcb6f780bb\appcompat-v7-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\bb43374553e95a74b846b9d9d8c77eb8\constraint-layout-1.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\202f4107c4d76701495cffb3a4a4bcf2\support-fragment-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\2392913d09478def35c70ba0c2396ded\animated-vector-drawable-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\96fb33977dfa5b04e7d1e5fae2929597\support-core-ui-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\860d567f6797e60085e4a2ed78d360f3\support-core-utils-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\76f2eaf081d3be3792a22eda945b0a63\support-vector-drawable-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\2760ebc95bbacebd3dc96f58f0722e72\loader-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\889c48ebd8e00e2550f5e411f3a39450\viewpager-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\c76a3ebbecb22ffed56b3d7517efe944\coordinatorlayout-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\aa332b86479bd5fefbf7272d38dc203b\drawerlayout-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\0e30eb0945f7cd16730529a3622da97b\slidingpanelayout-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\69104f9ff3da9df6ccca1ac48ad98b41\customview-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\f9b80b7e21872072d6f4f0080598d519\swiperefreshlayout-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\b8a0014d8cfe17d34984bd065b46f5ed\asynclayoutinflater-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\e638582e597e47dc26ba90965cdfb5c8\support-compat-28.0.0-alpha3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\2d8af4348a353b2cd5b60ea8d461de73\cursoradapter-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\912d14cf8b7da59afd70a06b1ab8df17\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\5abe7e9e3b30d5c926a0b45eb65c80aa\versionedparcelable-28.0.0-alpha3\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\5fba711870cd9f58be6a5ce2b0a192e8\documentfile-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\1367275e090953b9a5f5a9c18884be4e\localbroadcastmanager-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\46c25cf472a98239841341bca013b1f9\print-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\e30d9e6f3403e84c4cae532d406e4009\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\0c580ad6917269345b415f2689381fa7\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\32c3c3c1ff1572cd4fbf4adc8b2e281b\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\e5379f9f0383f314a281279116adbace\interpolator-28.0.0-alpha3\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:17:1-49:12
+INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:17:1-49:12
+INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:17:1-49:12
 	package
 		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:18:11-50
 		INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
@@ -9,59 +41,65 @@ ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:17:
 		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:20:11-36
 		INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:17:11-69
 	android:versionCode
 		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:19:11-34
 		INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:17:11-69
-uses-sdk
-ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:21:5-22:46
-	android:targetSdkVersion
-		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:22:15-44
-		INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:21:15-41
-		INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
 uses-feature#android.hardware.bluetooth_le
-ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:27:5-89
+ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:25:5-89
 	android:required
-		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:27:64-87
+		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:25:64-87
 	android:name
-		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:27:19-63
+		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:25:19-63
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:29:5-67
+ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:27:5-67
 	android:name
-		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:29:22-65
+		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:27:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:30:5-73
+ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:28:5-73
 	android:name
-		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:30:22-71
+		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:28:22-71
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:31:5-78
+ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:29:5-78
 	android:name
-		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:31:22-76
+		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:29:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:32:5-80
+ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:30:5-80
 	android:name
-		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:32:22-78
+		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:30:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:31:5-66
+	android:name
+		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:31:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:32:5-70
+	android:name
+		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:32:22-68
 application
 ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:33:5-48:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\bb43374553e95a74b846b9d9d8c77eb8\constraint-layout-1.1.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\bb43374553e95a74b846b9d9d8c77eb8\constraint-layout-1.1.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\e638582e597e47dc26ba90965cdfb5c8\support-compat-28.0.0-alpha3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\e638582e597e47dc26ba90965cdfb5c8\support-compat-28.0.0-alpha3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\5abe7e9e3b30d5c926a0b45eb65c80aa\versionedparcelable-28.0.0-alpha3\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\5abe7e9e3b30d5c926a0b45eb65c80aa\versionedparcelable-28.0.0-alpha3\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\e638582e597e47dc26ba90965cdfb5c8\support-compat-28.0.0-alpha3\AndroidManifest.xml:22:18-91
 	android:label
 		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:33:18-50
 	android:icon
 		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:34:18-52
 	android:theme
-		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:35:18-53
+		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:35:18-49
 activity#me.nickson.HM10.serialmonitor.DeviceScanActivity
 ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:36:9-42:20
 	android:label
 		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:37:19-51
 	android:name
 		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:36:19-82
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:38:13-41:29
 action#android.intent.action.MAIN
 ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:39:17-68
@@ -89,3 +127,69 @@ ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:47:
 		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:47:82-104
 	android:name
 		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:47:18-81
+uses-sdk
+INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\1333a20359de9aa49525f9fcb6f780bb\appcompat-v7-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\1333a20359de9aa49525f9fcb6f780bb\appcompat-v7-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\bb43374553e95a74b846b9d9d8c77eb8\constraint-layout-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\bb43374553e95a74b846b9d9d8c77eb8\constraint-layout-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\202f4107c4d76701495cffb3a4a4bcf2\support-fragment-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\202f4107c4d76701495cffb3a4a4bcf2\support-fragment-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\2392913d09478def35c70ba0c2396ded\animated-vector-drawable-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\2392913d09478def35c70ba0c2396ded\animated-vector-drawable-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\96fb33977dfa5b04e7d1e5fae2929597\support-core-ui-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\96fb33977dfa5b04e7d1e5fae2929597\support-core-ui-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\860d567f6797e60085e4a2ed78d360f3\support-core-utils-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\860d567f6797e60085e4a2ed78d360f3\support-core-utils-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\76f2eaf081d3be3792a22eda945b0a63\support-vector-drawable-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\76f2eaf081d3be3792a22eda945b0a63\support-vector-drawable-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\2760ebc95bbacebd3dc96f58f0722e72\loader-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\2760ebc95bbacebd3dc96f58f0722e72\loader-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\889c48ebd8e00e2550f5e411f3a39450\viewpager-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\889c48ebd8e00e2550f5e411f3a39450\viewpager-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\c76a3ebbecb22ffed56b3d7517efe944\coordinatorlayout-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\c76a3ebbecb22ffed56b3d7517efe944\coordinatorlayout-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\aa332b86479bd5fefbf7272d38dc203b\drawerlayout-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\aa332b86479bd5fefbf7272d38dc203b\drawerlayout-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\0e30eb0945f7cd16730529a3622da97b\slidingpanelayout-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\0e30eb0945f7cd16730529a3622da97b\slidingpanelayout-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\69104f9ff3da9df6ccca1ac48ad98b41\customview-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\69104f9ff3da9df6ccca1ac48ad98b41\customview-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\f9b80b7e21872072d6f4f0080598d519\swiperefreshlayout-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\f9b80b7e21872072d6f4f0080598d519\swiperefreshlayout-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\b8a0014d8cfe17d34984bd065b46f5ed\asynclayoutinflater-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\b8a0014d8cfe17d34984bd065b46f5ed\asynclayoutinflater-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\e638582e597e47dc26ba90965cdfb5c8\support-compat-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\e638582e597e47dc26ba90965cdfb5c8\support-compat-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\2d8af4348a353b2cd5b60ea8d461de73\cursoradapter-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\2d8af4348a353b2cd5b60ea8d461de73\cursoradapter-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\912d14cf8b7da59afd70a06b1ab8df17\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\912d14cf8b7da59afd70a06b1ab8df17\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\5abe7e9e3b30d5c926a0b45eb65c80aa\versionedparcelable-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\5abe7e9e3b30d5c926a0b45eb65c80aa\versionedparcelable-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\5fba711870cd9f58be6a5ce2b0a192e8\documentfile-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\5fba711870cd9f58be6a5ce2b0a192e8\documentfile-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\1367275e090953b9a5f5a9c18884be4e\localbroadcastmanager-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\1367275e090953b9a5f5a9c18884be4e\localbroadcastmanager-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\46c25cf472a98239841341bca013b1f9\print-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\46c25cf472a98239841341bca013b1f9\print-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\e30d9e6f3403e84c4cae532d406e4009\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\e30d9e6f3403e84c4cae532d406e4009\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\0c580ad6917269345b415f2689381fa7\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\0c580ad6917269345b415f2689381fa7\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\32c3c3c1ff1572cd4fbf4adc8b2e281b\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\32c3c3c1ff1572cd4fbf4adc8b2e281b\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\e5379f9f0383f314a281279116adbace\interpolator-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\wangx\.gradle\caches\transforms-2\files-2.1\e5379f9f0383f314a281279116adbace\interpolator-28.0.0-alpha3\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml
