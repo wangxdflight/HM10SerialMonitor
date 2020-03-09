@@ -57,7 +57,7 @@ import android.widget.Toast;
  * communicates with {@code BluetoothLeService}, which in turn interacts with the
  * Bluetooth LE API.
  */
-public class DeviceControlActivity extends AppCompatActivity implements
+public class DeviceControlActivity extends Activity implements
         RecognitionListener {
     private final static String TAG = DeviceControlActivity.class.getSimpleName();
 
@@ -473,9 +473,21 @@ public class DeviceControlActivity extends AppCompatActivity implements
             text += result + "\n";
 
         returnedText= text;
+        Log.d(TAG, text);
+        sendOverBT(text);
         speech.startListening(recognizerIntent);
     }
 
+    // on change of bars write char
+    private void sendOverBT(String s) {
+        Log.d(TAG, "Sending result=" + s);
+        final byte[] tx = s.getBytes();
+        if (mConnected) {
+            characteristicTX.setValue(tx);
+            mBluetoothLeService.writeCharacteristic(characteristicTX);
+            mBluetoothLeService.setCharacteristicNotification(characteristicRX, true);
+        }
+    }
     @Override
     public void onError(int errorCode) {
         String errorMessage = getErrorText(errorCode);

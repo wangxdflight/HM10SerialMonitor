@@ -92,7 +92,7 @@ MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\wan
 	android:icon
 		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:34:18-52
 	android:theme
-		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:35:18-49
+		ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:35:18-53
 activity#me.nickson.HM10.serialmonitor.DeviceScanActivity
 ADDED from C:\Users\wangx\HM10SerialMonitor\app\src\main\AndroidManifest.xml:36:9-42:20
 	android:label
